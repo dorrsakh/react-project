@@ -1,0 +1,10 @@
+.menu {
+  display: flex;
+  justify-content: space-around;
+  background-color: tan;
+  padding: 20px;
+}
+
+.active {
+  color: rgb(255, 251, 251);
+}
